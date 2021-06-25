@@ -1,5 +1,9 @@
+/* eslint-disable no-unused-vars */
 console.log(module);
 
-var name = "tolu";
+const add = (num, num2) => {};
+const notPublic = () => {
+    add()
+}
 
-x = 5;
+export default {add, thing() {}, value: 1}
