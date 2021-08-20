@@ -10,6 +10,9 @@
   "author": "AbdulKabir Sulaiman",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "node-fetch": "^2.6.1",
+    "open": "^8.2.1",
+    "yargs": "^17.1.1"
   }
 }
