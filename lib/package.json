@@ -1,0 +1,14 @@
+{
+  "name": "lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "utils.js",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+    "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
