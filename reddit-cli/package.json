@@ -1,16 +1,16 @@
 {
-  "name": "reddit-cli",
+  "name": "reddit-homepage-cli",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "reddit": "./reddit.mjs"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "AbdulKabir Sulaiman",
+  "license": "MIT",
   "keywords": [],
   "dependencies": {
     "node-fetch": "^2.6.1",
